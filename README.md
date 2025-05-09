@@ -1,4 +1,4 @@
-# teachable Free Trial, Coupons and Pricing Plans in 2025
+# Teachable Coupons, Free Trial & Discount Offers 2025
 
 **Teachable** is a popular **online course creation and selling platform** that allows individuals and businesses to build, market, and sell **online courses, coaching services, and digital products**. It is designed for creators who want to **monetize their knowledge** without needing technical skills or custom web development.
 
