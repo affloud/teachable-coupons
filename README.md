@@ -12,7 +12,7 @@ Teachable empowers anyone to create and sell beautiful online courses. Your skil
   <img src="https://drive.google.com/uc?export=view&id=1DWiklQRKbzvJIwUm_jHwQ048X_pi2k7q"  alt="">
 </a>
 
-Teachable is a leading cloud-based platform that empowers creators, educators, and entrepreneurs to build and sell online courses and coaching services. With an intuitive drag-and-drop interface, Teachable allows users to design high-quality learning experiences without needing coding skills. It offers features like content dripping, quizzes, certificates, integrated payment processing, and customizable sales pages—making it an all-in-one platform for knowledge commerce.
+**Teachable** is a leading cloud-based platform that empowers creators, educators, and entrepreneurs to build and sell online courses and coaching services. With an intuitive drag-and-drop interface, Teachable allows users to design high-quality learning experiences without needing coding skills. It offers features like content dripping, quizzes, certificates, integrated payment processing, and customizable sales pages—making it an all-in-one platform for knowledge commerce.
 
 What sets Teachable apart is its user-friendly design, robust analytics, and scalability. Whether you're a solo instructor, a business building a branded academy, or a coach offering 1:1 sessions, Teachable provides the tools to monetize expertise effectively. Its seamless integrations with marketing tools and automation platforms further streamline workflows, making it ideal for both beginners and experienced digital educators.
 
