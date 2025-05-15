@@ -6,7 +6,7 @@ Teachable has enabled us to have an incredible impact on the lives of over 60,00
 
 Teachable empowers anyone to create and sell beautiful online courses. Your skills and experiences are valuable. Build a beautiful course website and control your branding, student data, and pricing all from one place without any technical expertise.
 
-## **Teachable overview**
+## Teachable overview
 
 <a href="https://afftrend.com/teachable">
   <img src="https://drive.google.com/uc?export=view&id=1DWiklQRKbzvJIwUm_jHwQ048X_pi2k7q"  alt="">
@@ -31,7 +31,7 @@ What sets Teachable apart is its user-friendly design, robust analytics, and sca
 <img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
 </a>
 
-## Key features of teachable
+## Teachable Features 2025
 
 **Course Creation**
 
