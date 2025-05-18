@@ -153,10 +153,6 @@ Below is a comparison of some top Teachable alternatives to help you evaluate yo
 
 ## How to Use Teachable
 
-Markdown
-
-## How to Use Teachable
-
 Teachable is a popular platform that empowers creators, including web developers, to build and sell online courses, coaching products, and other digital content. It provides a suite of tools to manage everything from course creation and student engagement to payment processing and marketing. Whether you're looking to share your web development expertise, offer specialized coaching, or sell digital downloads, Teachable offers a user-friendly interface to get started.
 
 Here's a general guide on how to use Teachable:
